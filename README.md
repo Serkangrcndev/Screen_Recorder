@@ -9,6 +9,10 @@
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-000000?style=flat-square&logo=ffmpeg&logoColor=white)](https://ffmpeg.org/)
 [![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=visual-basic&logoColor=white)](https://docs.microsoft.com/dotnet/visual-basic/)
 
+<img width="429" height="83" alt="Ekran görüntüsü 2026-05-02 220155" src="https://github.com/user-attachments/assets/737e1cc4-9c48-4652-b0a9-6644e6202ec0" />
+<img width="1180" height="185" alt="Ekran görüntüsü 2026-05-02 220207" src="https://github.com/user-attachments/assets/1ce6cccd-d11f-484b-9050-baacbcc49740" />
+
+
 </div>
 
 ## 📋 Proje Genel Bakış
