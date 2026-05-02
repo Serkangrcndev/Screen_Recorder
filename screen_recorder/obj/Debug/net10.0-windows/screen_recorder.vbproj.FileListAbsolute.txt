@@ -1,0 +1,16 @@
+C:\Users\Kale\Desktop\screen_recorder\screen_recorder\bin\Debug\net10.0-windows\screen_recorder.exe
+C:\Users\Kale\Desktop\screen_recorder\screen_recorder\bin\Debug\net10.0-windows\screen_recorder.deps.json
+C:\Users\Kale\Desktop\screen_recorder\screen_recorder\bin\Debug\net10.0-windows\screen_recorder.runtimeconfig.json
+C:\Users\Kale\Desktop\screen_recorder\screen_recorder\bin\Debug\net10.0-windows\screen_recorder.dll
+C:\Users\Kale\Desktop\screen_recorder\screen_recorder\bin\Debug\net10.0-windows\screen_recorder.pdb
+C:\Users\Kale\Desktop\screen_recorder\screen_recorder\obj\Debug\net10.0-windows\screen_recorder.Form1.resources
+C:\Users\Kale\Desktop\screen_recorder\screen_recorder\obj\Debug\net10.0-windows\screen_recorder.vbproj.GenerateResource.cache
+C:\Users\Kale\Desktop\screen_recorder\screen_recorder\obj\Debug\net10.0-windows\screen_recorder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kale\Desktop\screen_recorder\screen_recorder\obj\Debug\net10.0-windows\screen_recorder.AssemblyInfoInputs.cache
+C:\Users\Kale\Desktop\screen_recorder\screen_recorder\obj\Debug\net10.0-windows\screen_recorder.AssemblyInfo.vb
+C:\Users\Kale\Desktop\screen_recorder\screen_recorder\obj\Debug\net10.0-windows\screen_recorder.vbproj.CoreCompileInputs.cache
+C:\Users\Kale\Desktop\screen_recorder\screen_recorder\obj\Debug\net10.0-windows\screen_recorder.dll
+C:\Users\Kale\Desktop\screen_recorder\screen_recorder\obj\Debug\net10.0-windows\refint\screen_recorder.dll
+C:\Users\Kale\Desktop\screen_recorder\screen_recorder\obj\Debug\net10.0-windows\screen_recorder.pdb
+C:\Users\Kale\Desktop\screen_recorder\screen_recorder\obj\Debug\net10.0-windows\screen_recorder.genruntimeconfig.cache
+C:\Users\Kale\Desktop\screen_recorder\screen_recorder\obj\Debug\net10.0-windows\ref\screen_recorder.dll
